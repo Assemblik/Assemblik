@@ -1,29 +1,71 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=>_ROBCO+INDUSTRIES+UNIFIED+OPERATING+SYSTEM;>_ASSEMBLIK+TERMINAL+ONLINE;>_INITIALIZING+LASER-MADE+PROTOCOLS...;>_SYSTEM+READY." alt="Boot Sequence" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=)>_ROBCO+INDUSTRIES+UNIFIED+OPERATING+SYSTEM;>_ASSEMBLIK+TERMINAL+ONLINE;>_INITIALIZING+LASER-MADE+PROTOCOLS...;>_SYSTEM+READY." alt="Boot Sequence" />
 </div>
 
-```text
-================================================================
+<br>
+
+<div align="center">
+<pre><samp>================================================================
 ROBCO INDUSTRIES UNIFIED OPERATING SYSTEM
 COPYRIGHT 2075-2077 ROBCO INDUSTRIES
 -Server 1-
 Assemblik Core v.8.5.4 (LASER-MADE)
-================================================================
-☢️ STATUS / S.P.E.C.I.A.L.
-Bienvenidos al refugio de Assemblik. Desarrollamos herramientas de alta tecnología para sobrevivir en el Yermo digital, llevando la precisión del corte láser directamente a nuestro código fuente.
+================================================================</samp></pre>
+</div>
 
-🏕️ BASE DE OPERACIONES: assemblik.mx
+<div align="center">
+  <img src="[https://moe-counter.glitch.me/get/@Assemblik?theme=rule34](https://moe-counter.glitch.me/get/@Assemblik?theme=rule34)" alt="Población del Refugio" />
+  <br>
+  <samp><b>[ P O B L A C I Ó N   D E L   R E F U G I O ]</b></samp>
+</div>
 
-📡 TRANSMISIONES: Especialistas en optimización de procesos y desarrollo a medida.
+---
 
-🤝 ALIANZAS: Siempre abiertos a nuevas misiones de integración de sistemas.
+## ☢️ STATUS / S.P.E.C.I.A.L.
 
-📟 QUEST LOG [Proyectos Destacados]
-[✓] MISIÓN: PanelProductividad
+Bienvenidos al refugio de **Assemblik**. Desarrollamos herramientas de alta tecnología para sobrevivir en el Yermo digital, llevando la precisión del corte láser directamente a nuestro código fuente.
 
-[✓] MISIÓN: Cotizador
+- 🏕️ **BASE DE OPERACIONES:** [assemblik.mx](https://assemblik.mx/)
+- 📡 **TRANSMISIONES:** Especialistas en optimización de procesos y desarrollo a medida.
+- 🤝 **ALIANZAS:** Siempre abiertos a nuevas misiones de integración de sistemas.
 
-[⚙️] MISIÓN ACTIVA: Portal-de-Clientes-OD
+---
 
-🔋 ARMAS DE ENERGÍA [Stack Tecnológico]
-📊 PIP-BOY DATA [Estadísticas]
+## 📟 QUEST LOG [Proyectos Destacados]
+
+> **[✓] MISIÓN: PanelProductividad**
+> 
+> **[✓] MISIÓN: Cotizador**
+> 
+> **[⚙️] MISIÓN ACTIVA: Portal-de-Clientes-OD**
+
+---
+
+## 🔋 ARMAS DE ENERGÍA [Stack Tecnológico]
+
+<div align="center">
+  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)>_JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=39FF14&borderColor=39FF14" />
+  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)>_PYTHON-000000?style=for-the-badge&logo=python&logoColor=39FF14&borderColor=39FF14" />
+  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)>_REACT-000000?style=for-the-badge&logo=react&logoColor=39FF14&borderColor=39FF14" />
+  <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)>_MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14&borderColor=39FF14" />
+</div>
+
+---
+
+## 📊 PIP-BOY DATA [Estadísticas]
+
+<div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=Assemblik&show_icons=true&bg_color=000000&title_color=39ff14&text_color=39ff14&icon_color=39ff14&border_color=39ff14&border_radius=0](https://github-readme-stats.vercel.app/api?username=Assemblik&show_icons=true&bg_color=000000&title_color=39ff14&text_color=39ff14&icon_color=39ff14&border_color=39ff14&border_radius=0)" alt="Pip-Boy Stats" />
+  <br><br>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Assemblik&layout=compact&bg_color=000000&title_color=39ff14&text_color=39ff14&border_color=39ff14&border_radius=0](https://github-readme-stats.vercel.app/api/top-langs/?username=Assemblik&layout=compact&bg_color=000000&title_color=39ff14&text_color=39ff14&border_color=39ff14&border_radius=0)" alt="Pip-Boy Top Langs" />
+</div>
+
+---
+
+<div align="center">
+  <samp><b>⚠️ ADVERTENCIA: NIVELES DE RADIACIÓN EN EL REPOSITORIO ⚠️</b></samp>
+  <br><br>
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Assemblik&theme=github-dark&bg_color=000000&color=39ff14&line=39ff14&point=39ff14&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Assemblik&theme=github-dark&bg_color=000000&color=39ff14&line=39ff14&point=39ff14&area=true&hide_border=true)" width="100%" alt="Medidor Geiger de Actividad" />
+  <br>
+  <samp><b>[ +0.15 RADS/SEC — EL CÓDIGO ESTÁ ALFA ]</b></samp>
+</div>
