@@ -52,20 +52,33 @@ Bienvenidos al refugio de **Assemblik**. Desarrollamos herramientas de alta tecn
 
 ---
 
-## 📊 PIP-BOY DATA [Estadísticas]
+## 📊 PIP-BOY DATA [Estadísticas de Repositorio]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Assemblik&show_icons=true&bg_color=000000&title_color=39ff14&text_color=39ff14&icon_color=39ff14&border_color=39ff14&border_radius=0&cache_seconds=86400" alt="Pip-Boy Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assemblik&layout=compact&bg_color=000000&title_color=39ff14&text_color=39ff14&border_color=39ff14&border_radius=0&cache_seconds=86400" alt="Pip-Boy Top Langs" />
+  <pre><samp>
++-------------------------------------------------+
+|                                                 |
+|  [>_ Nivel de acceso autorizado: ROOT ]         |
+|                                                 |
+|  >> Sincronización de repositorios activa       |
+|  >> Conectado a la red de GitHub...             |
+|                                                 |
++-------------------------------------------------+
+  </samp></pre>
+  
+  <br>
+  
+  <a href="https://github.com/Assemblik?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositorios_Públicos-Haz_clic_para_ver_inventario-000000?style=for-the-badge&logo=github&logoColor=39FF14&borderColor=39FF14" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <samp><b>⚠️ ADVERTENCIA: NIVELES DE RADIACIÓN EN EL REPOSITORIO ⚠️</b></samp>
+  <samp><b>⚠️ ADVERTENCIA: SEÑAL GEIGER ACTIVA ⚠️</b></samp>
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Assemblik&theme=github-dark&bg_color=000000&color=39ff14&line=39ff14&point=39ff14&area=true&hide_border=true&cache_seconds=86400" width="100%" alt="Medidor Geiger de Actividad" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=400&lines=[||||||||||||||||||||||];[|||||||||___________];[|||||||||||||_______]" alt="Medidor Geiger" />
   <br>
-  <samp><b>[ +0.15 RADS/SEC — EL CÓDIGO ESTÁ ALFA ]</b></samp>
+  <samp><b>[ +0.15 RADS/SEC — EXPLORANDO EL CÓDIGO ALFA ]</b></samp>
 </div>
