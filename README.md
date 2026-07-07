@@ -14,9 +14,7 @@ Assemblik Core v.8.5.4 (LASER-MADE)
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Assemblik/count.svg" alt="Población del Refugio" />
-  <br>
-  <samp><b>[ P O B L A C I Ó N   D E L   R E F U G I O ]</b></samp>
+  <img src="https://komarev.com/ghpvc/?username=Assemblik&label=POBLACION+DEL+REFUGIO&color=39ff14&style=for-the-badge" alt="Población del Refugio" />
 </div>
 
 ---
